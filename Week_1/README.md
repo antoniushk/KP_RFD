@@ -164,33 +164,33 @@ The implemented workflow consists of the following major steps:
 
 The notebook automatically generates several quality-control plots.
 
-## Well Log Track
+# Well Log Track
 
-![](outputs/figures/well_log_track.png)
+![](FRM/outputs/figures/well_log_track.png)
 
 ---
 
 ## Original Crossplot
 
-![](outputs/figures/original_crossplot.png)
+![](FRM/outputs/figures/original_crossplot.png)
 
 ---
 
 ## FRM Crossplot
 
-![](outputs/figures/frm_crossplot.png)
+![](FRM/outputs/figures/frm_crossplot.png)
 
 ---
 
 ## FRM Comparison
 
-![](outputs/figures/frm_comparison_track.png)
+![](FRM/outputs/figures/frm_comparison_track.png)
 
 ---
 
 ## Facies Histogram
 
-![](outputs/figures/facies_histogram.png)
+![](FRM/outputs/figures/facies_histogram.png)
 
 ---
 
