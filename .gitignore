@@ -13,7 +13,6 @@ __pycache__/
 **/geophysical_notes/
 
 # Generated outputs
-**/outputs/
 **/outputsV3/
 
 # OS files
