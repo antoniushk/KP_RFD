@@ -164,6 +164,12 @@ The implemented workflow consists of the following major steps:
 
 The notebook automatically generates several quality-control plots.
 
+## Facies Histogram
+
+![](FRM/outputs/figures/facies_histogram.png)
+
+---
+
 # Well Log Track
 
 ![](FRM/outputs/figures/well_log_track.png)
@@ -185,12 +191,6 @@ The notebook automatically generates several quality-control plots.
 ## FRM Comparison
 
 ![](FRM/outputs/figures/frm_comparison_track.png)
-
----
-
-## Facies Histogram
-
-![](FRM/outputs/figures/facies_histogram.png)
 
 ---
 
